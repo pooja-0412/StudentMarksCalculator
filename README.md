@@ -26,3 +26,4 @@ python marks_calculator.py
 - Maths
 - Science
 - Social Science
+- Created for Git and GitHub practice.
